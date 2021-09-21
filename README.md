@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
     - theme:tokyonight
     - locale:cn
     - hide_border:false
-    - bg_color: &bg_color=225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%
+    - bg_color: &bg_color=225deg, #FF3CAC, #784BA0, #2B86C5
     - hide_title: false
     - include_all_commits: true
     - 
