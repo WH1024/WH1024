@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
     - theme:tokyonight
     - locale:cn
     - hide_border:false
-    - bg_color: 可以在 bg_color 选项中提供多个逗号分隔的值来呈现渐变，(&bg_color=[角度值]DEG,COLOR1,COLOR2,COLOR3...COLOR10; eg: 62deg,8EC5FC,E0C3FC)
+    - bg_color: &bg_color=225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%
     - hide_title: false
     - include_all_commits: true
     - 
