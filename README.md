@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
     - username: WH1024
     - show_icons: true
     - count_private: true
-    - theme: radical
+    - theme:radical
     - locale: cn
     - hide_border: 隐藏卡的边框 (布尔值)
     - bg_color: 可以在 bg_color 选项中提供多个逗号分隔的值来呈现渐变，(&bg_color=[角度值]DEG,COLOR1,COLOR2,COLOR3...COLOR10; eg: 62deg,8EC5FC,E0C3FC)
