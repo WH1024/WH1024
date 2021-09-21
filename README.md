@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 <!--
   参数:
     - username: WH1024
-    - show_icons: 是否显示图标 (boolean)
+    - show_icons: true (boolean)
     - count_private: 统计私人提交 (boolean)
     - theme: 主题 (dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
     - locale: 在卡片中设置语言 (例如 cn, de, es, 等等)
