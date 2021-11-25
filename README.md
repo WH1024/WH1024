@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @WH1024
 - 👀 I’m interested in C/c++
 - 🌱 I’m currently learning c++
+- 个人笔记网站   [一曲轻愁](http://www.yiquqingchou.club)
+
 
 <!---
 WH1024/WH1024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
