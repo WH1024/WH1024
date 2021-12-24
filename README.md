@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @WH1024
-- 👀 I’m interested in C/c++
-- 🌱 I’m currently learning c++
+- 👀 I’m currently learning c++
 
 
 <!---
