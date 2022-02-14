@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @WH1024
 - 👀 I’m currently learning c++
-
+- 个人网站 [网址](http://yiquqingchou.club/)
+- CSDN [网址](https://blog.csdn.net/qq_42750240) 
 
 <!---
 WH1024/WH1024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
