@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WH1024
 - 👀 I’m currently learning c++
-- 个人网站 [网址](http://yiquqingchou.club/)
+- LeetCode [网址]((https://leetcode.cn/u/wh1024/))
 - CSDN [网址](https://blog.csdn.net/qq_42750240) 
 
 <!---
